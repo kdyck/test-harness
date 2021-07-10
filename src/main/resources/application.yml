@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: "test-srvc"
+  logging:
+    level:
+      root: "warn"
+      org.springframework.web: "debug"
+      org.hibernate: "error"
